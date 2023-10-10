@@ -1,0 +1,39 @@
+{
+    "products" : [    
+    {
+        "id" : 1,
+        "productName" : "Laptop",
+        "productImage" : "laptop.jpg",
+        "averageRating" : "5",
+        "price" : 4546.99
+    },
+    {
+        "id" : 2,
+        "productName" : "Car",
+        "productImage" : "car.jpg",
+        "averageRating" : "4.5",
+        "price" : 5900
+    },
+    {
+        "id" : 3,
+        "productName" : "Rabbit",
+        "productImage" : "rabbit.jpg",
+        "averageRating" : "3",
+        "price" : 999
+    },
+    {
+        "id" : 4,
+        "productName" : "Chair",
+        "productImage" : "chair.jpg",
+        "averageRating" : "5",
+        "price" : 9
+    },
+    {
+        "id" : 5,
+        "productName" : "Radio",
+        "productImage" : "radio.jpg",
+        "averageRating" : "50",
+        "price" : 9777
+    }
+  ]
+}
